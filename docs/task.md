@@ -6,4 +6,5 @@
 > July 19, 2022
 3. Installed Laravel/ui
 4. Installed ui Bootstrap (Scaffolding)
+5. npm installed && npm run dev
 > July 19,2022
