@@ -6,3 +6,4 @@
 3. Installed (php artisan) ui Bootstrap (--auth Scaffolding)
 4. npm installed && npm run dev
 > July 19,2022
+5. Log In Template Mastered
